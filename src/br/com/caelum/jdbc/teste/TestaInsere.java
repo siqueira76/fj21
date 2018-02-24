@@ -11,8 +11,8 @@ public class TestaInsere {
 		// Pronto para gravar
 		Contato contato = new Contato();
 		
-		contato.setNome("osé Carlos");
-		contato.setEmail("josé_carlos@siqueira.com.br");
+		contato.setNome("Josy Siqueira");
+		contato.setEmail("josy@siqueira.com.br");
 		contato.setEndereco("Rua Marilia, 85");
 		contato.setDataNascimento(Calendar.getInstance());
 		
